@@ -1,0 +1,2 @@
+clone:
+git clone https://github.com/Victin-Wen/learngit
