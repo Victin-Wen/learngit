@@ -178,7 +178,7 @@ Git鼓励大量使用分支：
 创建+切换分支：`git checkout -b <name>或者git switch -c <name>`
 合并某分支到当前分支：`git merge <name>`
 删除分支：`git branch -d <name>`
-解决冲突
+## 解决冲突
 准备新的feature1 分支
 `git checkout -b feature1`
 `Switched to a new branch 'feature1'`
